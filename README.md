@@ -2,7 +2,7 @@
 ### 1. **Introduction Of Exception Handling**
 - How to Handle an Runtime Exception
 ### Day 2 : Topic Covered
-### 2. **Method of Hanling Exception**
+## 2. **Method of Hanling Exception**
 - All three method of Handling Exception
 - Differet Exception classes
 - Program of Exception Handling using try-catch block
