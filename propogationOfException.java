@@ -1,5 +1,6 @@
 import java.util.Scanner;
-//
+// Prapogation of Exception 
+//Note ;-  It is better to handle the Exception Where it occurs (For try-catch Block)
 class Demo1{
     void fun1(){
         System.out.println("Connnextion 4 is established");
