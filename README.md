@@ -19,3 +19,8 @@
 ### 6 . **Exception hierarchy**
 - Checked and Unchecked Exception 
 - Exception class Methods (getMessage(),printStackTrace())
+## Day 4. Topic Covered
+### 7. **Custom Exception**
+- Program on custom Exception
+    1. ATM PIN Verification with Custom Exception Handling
+    2. Licence Application with Custom Exception Handling
